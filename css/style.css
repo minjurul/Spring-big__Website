@@ -1,0 +1,300 @@
+.top-section{
+	margin-top: 2%;
+}
+.phone-number{
+	color: rgb(252, 11, 11);
+	font-weight: 700;
+}
+.btn-default {
+    color: #F8F8F8;
+    background-color: #2ABDB7;
+    border-color: #2ABDB7;
+    padding-left: 25%;
+    padding-right: 25%;
+    border-radius: 0px;
+    transition-duration: 0.4s;
+}
+.top-section a{
+    height: 35px;
+	width: 35px;
+	border-radius: 50%;
+	background: #FFF none repeat scroll 0% 0%;
+	box-shadow: -1px 2px 3px;
+    padding: 10px;
+	margin-left: -8px;
+}
+.facebook a:hover{
+	background-color: #0b4b9e;
+	color: #fff;
+	transition-duration: 1s;
+}
+.twitter a:hover{
+	background-color:#16c1ef;
+	color: #fff;
+	transition-duration: 1s;
+}
+.linkedin a:hover{
+	background-color: #032b48;
+	color: #fff;
+	transition-duration: 1s;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+    text-align: right;
+}
+
+/****************************
+*******second section********
+*****************************/
+.second-section{
+	background-image: url(../images/background-images.png);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	margin-top: 12px;
+}
+.background-contant{
+	border: 1px solid #fff;
+    padding: 8px;
+    margin-top: 11%;
+    margin-bottom: 30%;
+    width: 35%;
+}
+.background-text-contant{
+	background: #FFF none repeat scroll 0% 0%;
+	opacity: 0.7;
+	float: right;
+	padding: 5px 26px 30px;
+	text-align: center;
+	height:369px;
+}
+.background-text-contant h1{
+    margin-bottom: 37px;
+	margin-top: 49px;
+	font-family: georgia;
+	color: #00c0ff;
+}
+.background-text-contant h2{
+	font-size: 30px;
+	font-family: time new roman;
+	margin-bottom: 57px;
+	color: #00c0ff;
+}
+.btn-default {
+    color: #F8F8F8;
+    background-color: #0DBBFF;
+    border-color: #0DBBFF;
+    padding-left: 25%;
+    padding-right: 25%;
+    border-radius: 7px;
+    transition-duration: 0.4s;
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-family: time new remo;
+    margin-bottom: 10px;
+}
+.btn-default:hover {
+    color: #F9FBFE;
+    background-color: #3d8de7;
+    border-color: #adadad;
+}
+
+/*****************************
+******third section***********
+******************************/
+.third-headline h1{
+	line-height: 50px;
+}
+.text-center h1{
+	font-weight: 700;
+	font-size: 36px;
+	color: rgb(71, 75, 78);
+	font-family: loto;
+}
+.text-center span{
+	font-weight: 200;
+}
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 0px solid #FFF;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    text-align: center;
+}
+.caption p{
+	line-height: 32px;
+}
+/**************************
+***********fourth section**
+***************************/
+.fourth-headline h1{
+	margin-top: 40px;
+    margin-bottom: 26px;
+}
+.fourth-section{
+	background-image: url(../images/ipad-background.png);
+	background-repeat: no-repeat;
+	width:100%;
+	height:100%;
+}
+.img-responsive, .thumbnail a > img, .thumbnail > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 6%;
+}
+/***********************************
+**********fifth section*************
+************************************/
+.fifth-section{
+	padding-top: 5%;
+    padding-bottom: 5%;
+}
+.sixth-section{
+	background-color:#bae2f2;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.email-contant{
+   margin-top: 10%;
+  margin-bottom: 10%;
+}
+.email-contant h1{
+	margin-bottom: 10%;
+}
+.email-logo{
+	float: left;
+}
+.show-day h1{
+	color: #fb1616;
+    margin-top: 36%
+}
+.show-day p{
+	letter-spacing: 2px;
+   line-height: 26px;
+}
+.six-table{
+  margin-left: 35px;
+}
+/****************************
+********eighth section*******
+*****************************/
+.eigth-section{
+	background-color: #ebebeb;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.powerful-contant p{
+	margin-top: 7%;
+    margin-bottom: 7%;
+    line-height: 26px;
+}
+.powerful-contant h4{
+	color: rgb(245, 9, 9);
+}
+.nine-section{
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+.font-contant {
+    margin-left: 20%;
+    margin-top: 4%;
+}
+.my-button{
+	margin-top: 17px;
+}
+
+
+.from-container-left{
+	width: 36%;
+	float: left;
+}
+.phone{
+	margin-right: 41px;
+}
+/********************************
+********tenth-section************
+**********************************/
+.tenth-section{
+	background-color: #46c7d2;
+	padding-top:5%;
+	padding-bottom: 5%;
+}
+.tenth-contant h1{
+	color:  #f0f0f0;
+}
+.logo{
+	margin-top: 3%;
+	padding: 9px;
+   padding-left: 94px;
+}
+/***************************
+**********elevn section*****
+****************************/
+.eleven-section{
+	padding-bottom: 5%;
+}
+/*************************
+********twelft-section****
+***************************/
+.twelft-section{
+	background-color: 
+	padding-top:5%;
+	padding-bottom: 5%;
+}
+.center-box{
+	color: rgb(255, 255, 255);
+	border-radius: 50%;
+	background: rgb(71, 199, 210);
+	width: 130px;
+	padding-top: 12px;
+	height: 130px;
+	margin-left: 108px;
+}
+.iner-box{
+    border: 1px solid #D9D9D9;
+	margin-left: 15px;
+	height: 529px;
+	margin-right: 15px;
+	margin-top: -3px;
+	padding-top: 20px;
+	box-shadow: 0 0 1em #D9D9D9;
+}
+.out-box{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #fff;
+	height: 566px;
+	border: 1px solid #D9D9D9;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+    line-height: 35px;
+}
+.footer{
+	background-color: #0b0b0c;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+.footer-contant h1{
+	color: #ebebeb;
+}
+.footer-down{
+	background-color: #000;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.foot-icon{
+	padding-top: 12px;
+	padding-right: 38px;
+}
